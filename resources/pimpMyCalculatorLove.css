@@ -1,0 +1,36 @@
+.button {
+    -fx-background-color: #cccccc;
+    -fx-border-radius: 0;
+    -fx-border-color: #FFFFFF;;
+    -fx-text-fill: #000000;
+    -fx-font-weight: lighter;
+
+
+
+
+}
+
+.scene {
+
+    -fx-background-color: #000000;
+    -fx-border-color: black;
+
+}
+
+.operators {
+    -fx-background-color: #38bd7c;
+    -fx-border-radius: 0;
+    -fx-border-color:#FFFFFF;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: lighter;
+
+}
+
+.display {
+
+    -fx-background-color: black;
+    -fx-text-fill: aliceblue;
+    -fx-font-size: 200%;
+    -fx-border-color: darkgrey;
+
+}
